@@ -1,0 +1,55 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+body
+{
+  background: #c4c4c4;
+  margin: 0 auto;
+  width: 800px;
+}
+
+#content
+{
+  margin-top: 100px;
+  padding: 50px;
+  background: #fff;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: rgb(173, 173, 173) 0rem 1.75rem 2rem 0rem;
+}
+
+.logo
+{
+  width: 100px;
+}
+
+h1
+{
+  font-family: 'Alegreya', serif;
+  font-size: 95px;
+  font-weight: 400;
+}
+
+h2
+{
+  font-family: 'Alegreya', serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+h3
+{
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 42px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.divider
+{
+  color: #c4c4c4;
+  margin: 13px 0;
+}
